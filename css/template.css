@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+      /*重置浏览器的默认样式*/
+
+      body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend,img, select{margin:0; padding:0; border:0; list-style: none; }
+	   /*全局控制*/
+
+      body{ font-family:Arial, Helvetica, sans-serif, "宋体"; font-size:12px;background:url(../images/detail_bg.jpg); }
+
+      a:link,a:visited{color: #222; text-decoration:none;}
+	  a:hover{color:#2fafbc;}
+
+      .top{margin: 0px auto;width:1000px; height:83px; text-align:left; }
+	  .logo{width: 307px; height:61px; float: left ;margin-top:10px;
+
+      background:url(../images/logo.png) no-repeat left bottom; }
+	  .options{float:right; margin:48px 0px 0px 0px;}
+	  .home, .fav{float:left;margin-left:10px; }
+
+      .home a, .fav a{text-align: center;height :20px; width: 60px; line-height :20px;
+      display: inline-block; border:1px solid #2fafbc;color: #2fafbc;}
+	  .home a:hover, .fav a:hover{background:#2fafbc; color:#fff; }/*top*//* zhuce*/
+
+      td{padding-bottom:26px; }
+
+      td.left{width: 78px; text-align: right;padding-right:8px;}
+	  
+.red{color: #2fafbc;}
+.txt01, .txt02, .txt03{
+	width: 424px;
+	height:24px;
+	border:1px solid#2fafbc;
+	padding:3px 3px 3px 26px;
+	font-size:12px;
+	color:#949494;
+	opacity:0.4;
+	line-height:24px;}
+.content_tablist .course{
+	width:184px;
+	height:24px;
+	opacity:0.4;
+	border:1px solid #2fafbc;}
+.content_tablist .message{
+	width:448px;
+	height: 164px;
+    font-size:12px;
+	color:#949494;
+	padding: 3px;
+	border:1px solid #2fafbc;
+	opacity:0.4;}
+.content tab{
+	width: 600px;
+	margin:0px auto 50px;
+	padding-top: 30px;
+    font-family:"微软雅黑"; 
+	color:#666;
+	box-shadow:0px 0px 8px 0px #CCC;}
+.content_tab_tittle{
+	width: 600px;
+	background: #2fafbc;
+	margin:0 auto;
+	height: 60px;
+	text-align: center;
+	line-height : 60px;
+    font-size:24px;
+	font-family:"微软雅黑"; }
+.tabbtn{
+	width: 458px;
+	height : 40px;
+	background:#2fafbc;
+	border :none;
+    color:#fff;}
+	/*zhuce end*/
+.content_deng1u{
+	width: 600px;
+	height: 300px;
+	margin:0px auto 50px;
+	padding-top: 100px; 
+	font-family:"微软雅黑";
+	color: #666;
+	box-shadow:0px 0px 8px 0px #CCC;
+}
+
+

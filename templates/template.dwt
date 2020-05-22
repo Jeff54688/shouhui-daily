@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>手绘日记</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="../css/template.css">
+<script type="text/javascript" src="../javascript/index.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+      <body>
+
+<!--top begin-->
+           <div class="top">
+              <a href="../index.html" class="logo"></a>
+              <div class="options">
+                  <div id="test" class="home">
+                      <a href="../login.html">登录</a>
+                  </div>
+                  <div id="lx" class="fav">
+                      <a href="../register.html">注册</a>
+                  </div>
+              </div>
+           </div>
+<!--top end-->
+	 <!--TemplateBeginEditable name="EditRegion1" -->
+     <div></div>
+      <!-- TemplateEndEditable -->
+
+	</body>
+</html>
+
